@@ -63,9 +63,8 @@
       color: $color-accent;
       font-weight: 700;
     }
-  }
 
-  &__button {
+    &__button {
     display: flex;
     flex-shrink: 0;
     justify-content: center;
@@ -88,4 +87,5 @@
       border-radius: 5px;
     }
   }
+}
 
